@@ -1,0 +1,36 @@
+.titulo-header{
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+
+.custom-toggler.navbar-toggler {
+    border-color: rgb(255,255,255);
+} 
+
+.final-footer{
+    text-align: center;
+    font-size: larger;
+}
+
+.final-text{
+    font-size: smaller;
+    text-align: center;
+}
+
+.footer-pricing{
+    margin-left:7vw;
+    text-align: right;
+}
+
+.line-text-price{
+    text-decoration: line-through;
+}
+
+.border-line-1{
+    border-left: solid black 1px;
+}
